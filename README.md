@@ -1,6 +1,6 @@
 ### Hi there 👋
 Im Eric Munyi
-- 🔭 I’m a ALX_SE almni
+- 🔭 I’m a ALX_SE alumni
 - 🌱 I’m full stack dev back end heavy
 - 👯 I’m looking to collaborate on any cool project related to programming
 - 📫 How to reach me: irerieric@gmail.com
